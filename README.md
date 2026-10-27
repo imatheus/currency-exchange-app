@@ -31,4 +31,4 @@ src/
 ```
 O estado do par de moedas e do período fica em `App` (lifting state up) e é compartilhado entre conversor, gráfico e tabela.
 
-Documentação adicional em `docs/`.
+Documentação adicional em `docs/`. A Collection do Postman está em `docs/postman_collection.json`.
