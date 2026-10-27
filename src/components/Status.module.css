@@ -1,0 +1,4 @@
+.status { padding: 12px; border-radius: 8px; margin: 8px 0; }
+.loading { background: #e8f0fe; color: #1a4fb4; }
+.error { background: #fdecea; color: #b3261e; }
+.empty { background: #f1f1f1; color: #555; }

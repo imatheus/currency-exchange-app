@@ -1,0 +1,8 @@
+.filters { display: flex; flex-wrap: wrap; gap: 12px; align-items: flex-end; margin-top: 16px; }
+.filters label { display: flex; flex-direction: column; gap: 4px; font-size: 14px; }
+.filters input, .filters select, .filters button { padding: 6px; font-size: 14px; }
+.filters button { cursor: pointer; }
+.scroll { max-height: 400px; overflow: auto; }
+.table { width: 100%; border-collapse: collapse; }
+.table th, .table td { padding: 8px; border-bottom: 1px solid #e3e6ee; text-align: left; }
+.table th { position: sticky; top: 0; background: #f3f5f9; }

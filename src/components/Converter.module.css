@@ -1,0 +1,18 @@
+.converter {
+  background: #fff;
+  border-radius: 12px;
+  padding: 16px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.08);
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  align-items: flex-end;
+}
+.row label { display: flex; flex-direction: column; gap: 4px; font-size: 14px; flex: 1; min-width: 140px; }
+.row input, .row select, .row button { padding: 8px; font-size: 16px; }
+.row button { cursor: pointer; }
+.result { margin-top: 16px; display: flex; flex-direction: column; gap: 4px; }
+.result strong { font-size: 28px; }
+.result span { color: #555; }
