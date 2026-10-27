@@ -10,7 +10,8 @@ export function downloadCsv(records, from, to) {
   const url = URL.createObjectURL(blob);
   const link = document.createElement('a');
   link.href = url;
-  link.download = `cotacoes_${from}_${to}.csv`;
+  const dates = records.map((r) => r.date).sort();
+  link.download = `cotacoes_${from}_${to}_${dates[0]}_a_${dates[dates.length - 1]}.csv`;
   link.click();
   URL.revokeObjectURL(url);
   return true;
