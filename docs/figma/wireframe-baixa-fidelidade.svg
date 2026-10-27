@@ -1,0 +1,213 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="1620" viewBox="0 0 1440 1620">
+<rect width="1440" height="1620" fill="#f0f0f0"/>
+<text x="0" y="28" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Desktop — wireframe de baixa fidelidade</text>
+<rect x="0" y="40" width="960" height="1000" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<text x="24" y="84" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222" text-anchor="start">Currency Exchange</text>
+<rect x="24" y="104" width="912" height="170" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<text x="40" y="132" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Conversor</text>
+<text x="40" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Valor</text>
+<rect x="40" y="158" width="150" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="50" y="181" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">1</text>
+<text x="210" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">De</text>
+<rect x="210" y="158" width="300" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="220" y="181" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">USD - United States Dollar  ▾</text>
+<rect x="530" y="158" width="44" height="36" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="552" y="181" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">⇄</text>
+<text x="594" y="152" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Para</text>
+<rect x="594" y="158" width="300" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="604" y="181" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">BRL - Brazilian Real  ▾</text>
+<text x="40" y="232" font-family="Arial, sans-serif" font-size="26" font-weight="700" fill="#222" text-anchor="start">R$ 0,00</text>
+<text x="40" y="256" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">1 USD = 0,00 BRL · cotação de dd/mm/aaaa</text>
+<rect x="24" y="294" width="912" height="726" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<text x="40" y="322" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Histórico USD → BRL</text>
+<rect x="40" y="336" width="66" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="73" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">7 dias</text>
+<rect x="114" y="336" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="151" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">15 dias</text>
+<rect x="196" y="336" width="74" height="28" rx="14" fill="#bbb" stroke="#444" stroke-width="1.5"/>
+<text x="233" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">30 dias</text>
+<rect x="278" y="336" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="315" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">3 meses</text>
+<rect x="360" y="336" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="397" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">6 meses</text>
+<rect x="442" y="336" width="58" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="471" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">1 ano</text>
+<rect x="508" y="336" width="66" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="541" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">5 anos</text>
+<rect x="582" y="336" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="619" y="355" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">10 anos</text>
+<rect x="40" y="380" width="880" height="220" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<line x1="80" y1="396" x2="80" y2="572" stroke="#444" stroke-width="1.5"/>
+<line x1="80" y1="572" x2="904" y2="572" stroke="#444" stroke-width="1.5"/>
+<polyline points="80,572 195.71428571428572,516 311.42857142857144,540 427.14285714285717,492 542.8571428571429,508 658.5714285714286,460 774.2857142857143,484 890,436" fill="none" stroke="#444" stroke-width="2"/>
+<text x="480" y="592" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="middle">Gráfico de linha (data x cotação)</text>
+<text x="40" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">De</text>
+<rect x="40" y="636" width="120" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="50" y="657" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">dd/mm/aaaa</text>
+<text x="176" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Até</text>
+<rect x="176" y="636" width="120" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="186" y="657" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">dd/mm/aaaa</text>
+<text x="312" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Cotação mín.</text>
+<rect x="312" y="636" width="110" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="438" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Cotação máx.</text>
+<rect x="438" y="636" width="110" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="564" y="630" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Ordenar por</text>
+<rect x="564" y="636" width="160" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="574" y="657" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">Data (recente) ▾</text>
+<rect x="740" y="636" width="80" height="32" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="780" y="657" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">Limpar</text>
+<rect x="830" y="636" width="90" height="32" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="875" y="657" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">Exportar CSV</text>
+<text x="40" y="698" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">N registro(s) encontrado(s)</text>
+<rect x="40" y="710" width="880" height="30" rx="0" fill="#e4e4e4" stroke="#444" stroke-width="1.5"/>
+<text x="50" y="730" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Data</text>
+<text x="270" y="730" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Origem</text>
+<text x="490" y="730" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Destino</text>
+<text x="710" y="730" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Cotação</text>
+<rect x="40" y="740" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="759" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="759" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="759" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="759" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="40" y="768" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="787" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="787" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="787" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="787" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="40" y="796" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="815" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="815" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="815" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="815" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="40" y="824" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="843" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="843" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="843" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="843" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="40" y="852" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="871" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="871" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="871" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="871" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="40" y="880" width="880" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="50" y="899" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="270" y="899" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="490" y="899" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="710" y="899" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<text x="1020" y="28" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Mobile (390px) — proposta de adaptação</text>
+<rect x="1020" y="40" width="390" height="1400" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<text x="1036" y="78" font-family="Arial, sans-serif" font-size="20" font-weight="700" fill="#222" text-anchor="start">Currency Exchange</text>
+<rect x="1032" y="94" width="366" height="340" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<text x="1044" y="120" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#222" text-anchor="start">Conversor</text>
+<text x="1044" y="138" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Valor</text>
+<rect x="1044" y="144" width="342" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="167" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">1</text>
+<text x="1044" y="198" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">De</text>
+<rect x="1044" y="204" width="342" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="227" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">USD  ▾</text>
+<rect x="1044" y="252" width="342" height="36" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="1215" y="275" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">⇄  Inverter moedas</text>
+<text x="1044" y="306" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Para</text>
+<rect x="1044" y="312" width="342" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="335" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">BRL  ▾</text>
+<text x="1044" y="386" font-family="Arial, sans-serif" font-size="24" font-weight="700" fill="#222" text-anchor="start">R$ 0,00</text>
+<text x="1044" y="410" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">1 USD = 0,00 BRL · dd/mm/aaaa</text>
+<rect x="1032" y="450" width="366" height="970" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<text x="1044" y="476" font-family="Arial, sans-serif" font-size="15" font-weight="700" fill="#222" text-anchor="start">Histórico USD → BRL</text>
+<rect x="1044" y="490" width="66" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1077" y="509" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">7 dias</text>
+<rect x="1118" y="490" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1155" y="509" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">15 dias</text>
+<rect x="1200" y="490" width="74" height="28" rx="14" fill="#bbb" stroke="#444" stroke-width="1.5"/>
+<text x="1237" y="509" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">30 dias</text>
+<rect x="1282" y="490" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1319" y="509" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">3 meses</text>
+<rect x="1044" y="526" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1081" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">6 meses</text>
+<rect x="1126" y="526" width="58" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1155" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">1 ano</text>
+<rect x="1192" y="526" width="66" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1225" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">5 anos</text>
+<rect x="1266" y="526" width="74" height="28" rx="14" fill="#fff" stroke="#444" stroke-width="1.5"/>
+<text x="1303" y="545" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="middle">10 anos</text>
+<rect x="1044" y="568" width="342" height="190" rx="4" fill="#fafafa" stroke="#444" stroke-width="1.5"/>
+<line x1="1084" y1="584" x2="1084" y2="730" stroke="#444" stroke-width="1.5"/>
+<line x1="1084" y1="730" x2="1370" y2="730" stroke="#444" stroke-width="1.5"/>
+<polyline points="1084,730 1122.857142857143,684.5 1161.7142857142858,704 1200.5714285714287,665 1239.4285714285713,678 1278.2857142857142,639 1317.142857142857,658.5 1356,619.5" fill="none" stroke="#444" stroke-width="2"/>
+<text x="1215" y="750" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="middle">Gráfico de linha (data x cotação)</text>
+<text x="1044" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">De</text>
+<rect x="1044" y="792" width="160" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="813" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">dd/mm/aaaa</text>
+<text x="1226" y="786" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Até</text>
+<rect x="1226" y="792" width="160" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1236" y="813" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">dd/mm/aaaa</text>
+<text x="1044" y="850" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Cotação mín.</text>
+<rect x="1044" y="856" width="160" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1226" y="850" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Cotação máx.</text>
+<rect x="1226" y="856" width="160" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1044" y="914" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Ordenar por</text>
+<rect x="1044" y="920" width="342" height="32" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="941" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">Data (recente) ▾</text>
+<rect x="1044" y="968" width="160" height="32" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="1124" y="989" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">Limpar filtros</text>
+<rect x="1226" y="968" width="160" height="32" rx="6" fill="#ddd" stroke="#444" stroke-width="1.5"/>
+<text x="1306" y="989" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="middle">Exportar CSV</text>
+<text x="1044" y="1024" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">N registro(s) encontrado(s)</text>
+<rect x="1044" y="1036" width="342" height="30" rx="0" fill="#e4e4e4" stroke="#444" stroke-width="1.5"/>
+<text x="1054" y="1056" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Data</text>
+<text x="1139.5" y="1056" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Origem</text>
+<text x="1225" y="1056" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Destino</text>
+<text x="1310.5" y="1056" font-family="Arial, sans-serif" font-size="13" font-weight="700" fill="#222" text-anchor="start">Cotação</text>
+<rect x="1044" y="1066" width="342" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="1054" y="1085" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="1139.5" y="1085" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="1225" y="1085" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="1310.5" y="1085" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="1044" y="1094" width="342" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="1054" y="1113" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="1139.5" y="1113" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="1225" y="1113" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="1310.5" y="1113" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="1044" y="1122" width="342" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="1054" y="1141" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="1139.5" y="1141" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="1225" y="1141" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="1310.5" y="1141" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="1044" y="1150" width="342" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="1054" y="1169" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="1139.5" y="1169" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="1225" y="1169" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="1310.5" y="1169" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<rect x="1044" y="1178" width="342" height="28" rx="0" fill="#fff" stroke="#aaa" stroke-width="1"/>
+<text x="1054" y="1197" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">dd/mm/aaaa</text>
+<text x="1139.5" y="1197" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">USD</text>
+<text x="1225" y="1197" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">BRL</text>
+<text x="1310.5" y="1197" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#777" text-anchor="start">0,0000</text>
+<text x="0" y="1080" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#222" text-anchor="start">Estados de interface</text>
+<text x="0" y="1108" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Loading</text>
+<rect x="0" y="1120" width="460" height="200" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<rect x="20" y="1144" width="420" height="20" rx="4" fill="#e4e4e4" stroke="#444" stroke-width="0"/>
+<rect x="20" y="1178" width="330" height="20" rx="4" fill="#e4e4e4" stroke="#444" stroke-width="0"/>
+<rect x="20" y="1212" width="240" height="20" rx="4" fill="#e4e4e4" stroke="#444" stroke-width="0"/>
+<rect x="20" y="1250" width="420" height="50" rx="4" fill="#e4e4e4" stroke="#444" stroke-width="0"/>
+<text x="230" y="1280" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#555" text-anchor="middle">Carregando histórico...</text>
+<text x="500" y="1108" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Erro (falha na API)</text>
+<rect x="500" y="1120" width="460" height="200" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<rect x="520" y="1160" width="420" height="56" rx="4" fill="#e8e8e8" stroke="#444" stroke-width="1.5"/>
+<text x="536" y="1194" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="start">⚠  Erro na API (404). Tente novamente.</text>
+<text x="520" y="1250" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">Gráfico e tabela ocultos; conversor mantém a</text>
+<text x="520" y="1268" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">mensagem de erro no próprio bloco.</text>
+<text x="0" y="1358" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Ausência de dados</text>
+<rect x="0" y="1370" width="460" height="200" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<rect x="20" y="1410" width="420" height="56" rx="4" fill="#f1f1f1" stroke="#444" stroke-width="1.5"/>
+<text x="36" y="1444" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#222" text-anchor="start">Nenhum dado disponível para este par/período.</text>
+<text x="20" y="1500" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">Também exibido na tabela: "Nenhum registro</text>
+<text x="20" y="1518" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#666" text-anchor="start">para os filtros aplicados."</text>
+<text x="500" y="1358" font-family="Arial, sans-serif" font-size="16" font-weight="700" fill="#222" text-anchor="start">Entrada inválida</text>
+<rect x="500" y="1370" width="460" height="200" rx="8" fill="#fff" stroke="#444" stroke-width="2"/>
+<text x="520" y="1414" font-family="Arial, sans-serif" font-size="12" font-weight="400" fill="#222" text-anchor="start">Valor</text>
+<rect x="520" y="1420" width="420" height="36" rx="4" fill="#f4f4f4" stroke="#444" stroke-width="1.5"/>
+<text x="530" y="1443" font-family="Arial, sans-serif" font-size="14" font-weight="400" fill="#666" text-anchor="start">abc</text>
+<rect x="520" y="1476" width="420" height="40" rx="4" fill="#e8e8e8" stroke="#444" stroke-width="1.5"/>
+<text x="536" y="1501" font-family="Arial, sans-serif" font-size="13" font-weight="400" fill="#222" text-anchor="start">Informe um valor numérico maior que zero.</text>
+</svg>
