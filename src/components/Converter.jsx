@@ -40,7 +40,7 @@ export default function Converter({ currencies, from, to, onFromChange, onToChan
           <input value={amountText} onChange={(e) => setAmountText(e.target.value)} inputMode="decimal" />
         </label>
         <CurrencySelect label="De" value={from} currencies={currencies} onChange={onFromChange} />
-        <button type="button" onClick={onSwap} title="Inverter moedas">⇄</button>
+        <button type="button" onClick={onSwap} title="Inverter moedas" aria-label="Inverter moedas">⇄</button>
         <CurrencySelect label="Para" value={to} currencies={currencies} onChange={onToChange} />
       </div>
 
