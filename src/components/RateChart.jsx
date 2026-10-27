@@ -1,5 +1,5 @@
 import { LineChart, Line, XAxis, YAxis, Tooltip, CartesianGrid, ResponsiveContainer } from 'recharts';
-import { formatDate } from '../utils/format.js';
+import { formatDate } from '../utils/dates.js';
 
 export default function RateChart({ records }) {
   const data = [...records].sort((a, b) => a.date.localeCompare(b.date));

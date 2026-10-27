@@ -2,7 +2,7 @@ import { useState } from 'react';
 import styles from './HistoryTable.module.css';
 import { filterRecords, sortRecords } from '../utils/history.js';
 import { downloadCsv } from '../utils/csv.js';
-import { formatDate } from '../utils/format.js';
+import { formatDate } from '../utils/dates.js';
 
 const EMPTY_FILTERS = { startDate: '', endDate: '', minRate: '', maxRate: '' };
 

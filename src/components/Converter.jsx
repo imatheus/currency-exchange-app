@@ -4,7 +4,8 @@ import CurrencySelect from './CurrencySelect.jsx';
 import Status from './Status.jsx';
 import { getLatestRate } from '../services/frankfurterApi.js';
 import { parseAmount, convert } from '../utils/convert.js';
-import { formatMoney, formatDate } from '../utils/format.js';
+import { formatMoney } from '../utils/format.js';
+import { formatDate } from '../utils/dates.js';
 
 export default function Converter({ currencies, from, to, onFromChange, onToChange, onSwap }) {
   const [amountText, setAmountText] = useState('1');
