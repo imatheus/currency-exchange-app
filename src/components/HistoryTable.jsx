@@ -12,6 +12,10 @@ export default function HistoryTable({ records }) {
 
   const visible = sortRecords(filterRecords(records, filters), sort);
 
+  const invalidDates = filters.startDate && filters.endDate && filters.startDate > filters.endDate;
+  const invalidRates =
+    filters.minRate !== '' && filters.maxRate !== '' && Number(filters.minRate) > Number(filters.maxRate);
+
   function updateFilter(field, value) {
     setFilters({ ...filters, [field]: value });
   }
@@ -53,6 +57,9 @@ export default function HistoryTable({ records }) {
         <button type="button" onClick={() => setFilters(EMPTY_FILTERS)}>Limpar filtros</button>
         <button type="button" onClick={handleExport} disabled={visible.length === 0}>Exportar CSV</button>
       </div>
+
+      {invalidDates && <p role="alert">A data inicial não pode ser maior que a data final.</p>}
+      {invalidRates && <p role="alert">A cotação mínima não pode ser maior que a máxima.</p>}
 
       <p>{visible.length} registro(s) encontrado(s)</p>
 
